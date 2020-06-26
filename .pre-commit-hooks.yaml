@@ -5,3 +5,4 @@
   require_serial: true
   pass_filenames: false
   entry: entry.sh
+  args: ['--output', 'CHANGELOG.md']
