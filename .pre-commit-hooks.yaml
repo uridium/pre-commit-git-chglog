@@ -3,4 +3,5 @@
   description: Generate CHANGELOG based on git commits and tags
   language: script
   require_serial: true
+  pass_filenames: false
   entry: entry.sh
